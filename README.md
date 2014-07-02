@@ -1,3 +1,0 @@
-gambarjson
-==========
-readme
